@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Michael Jackson",
+  "displaytitle": "<span class=\"mw-page-title-main\">Michael Jackson</span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q2831",
+  "titles": {
+    "canonical": "Michael_Jackson",
+    "normalized": "Michael Jackson",
+    "display": "<span class=\"mw-page-title-main\">Michael Jackson</span>"
+  },
+  "pageid": 1499535sdывsd1,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/31/Michael_Jackson_in_1988.jpg",
+    "width": 300,
+    "height": 502
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/31/Michael_Jackson_in_1988.jpg",
+    "width": 300,
+    "height": 502
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1186850642",
+  "tid": "01365590-8bdf-11ee-8e23-191ae4c5bd89",
+  "timestamp": "2023-11-25T22:07:01Z",
+  "description": "American singer (1958–2009)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Michael_Jackson",
+      "revisions": "https://en.wikipedia.org/wiki/Michael_Jackson?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Michael_Jackson?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Michael_Jackson"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Michael_Jackson",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Michael_Jackson",
+      "edit": "https://en.m.wikipedia.org/wiki/Michael_Jackson?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Michael_Jackson"
+    }
+  },
+  "extract": "Michael Joseph Jackson was an American singer, songwriter, dancer, and philanthropist. Known as the \"King of Pop\", he is regarded as one of the most significant cultural figures of the 20th century. During his four-decade career, his contributions to music, dance, and fashion, along with his publicized personal life, made him a global figure in popular culture. Jackson influenced artists across many music genres. Through stage and video performances, he popularized complicated street dance moves such as the moonwalk, which he named, as well as the robot.",
+  "extract_html": "<p><b>Michael Joseph Jackson</b> was an American singer, songwriter, dancer, and philanthropist. Known as the \"King of Pop\", he is regarded as one of the most significant cultural figures of the 20th century. During his four-decade career, his contributions to music, dance, and fashion, along with his publicized personal life, made him a global figure in popular culture. Jackson influenced artists across many music genres. Through stage and video performances, he popularized complicated street dance moves such as the moonwalk, which he named, as well as the robot.</p>"
+}

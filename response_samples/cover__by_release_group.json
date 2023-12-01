@@ -1,0 +1,69 @@
+{
+  "images": [
+    {
+      "types": [
+        "Front"
+      ],
+      "front": true,
+      "back": false,
+      "edit": 18556852,
+      "image": "http://coverartarchive.org/release/7d65853b-d547-4885-86a6-51df4005768c/1619682960.jpg",
+      "comment": "",
+      "approved": true,
+      "thumbnails": {
+        "large": "http://coverartarchive.org/release/7d65853b-d547-4885-86a6-51df4005768c/1619682960-500.jpg",
+        "small": "http://coverartarchive.org/release/7d65853b-d547-4885-86a6-51df4005768c/1619682960-250.jpg"
+      },
+      "id": "1619682960"
+    },
+    {
+      "types": [
+        "Back"
+      ],
+      "front": false,
+      "back": true,
+      "edit": 18556850,
+      "image": "http://coverartarchive.org/release/7d65853b-d547-4885-86a6-51df4005768c/1619682796.jpg",
+      "comment": "",
+      "approved": true,
+      "thumbnails": {
+        "large": "http://coverartarchive.org/release/7d65853b-d547-4885-86a6-51df4005768c/1619682796-500.jpg",
+        "small": "http://coverartarchive.org/release/7d65853b-d547-4885-86a6-51df4005768c/1619682796-250.jpg"
+      },
+      "id": "1619682796"
+    },
+    {
+      "types": [
+        "Medium"
+      ],
+      "front": false,
+      "back": false,
+      "edit": 18556848,
+      "image": "http://coverartarchive.org/release/7d65853b-d547-4885-86a6-51df4005768c/1619682623.jpg",
+      "comment": "",
+      "approved": true,
+      "thumbnails": {
+        "large": "http://coverartarchive.org/release/7d65853b-d547-4885-86a6-51df4005768c/1619682623-500.jpg",
+        "small": "http://coverartarchive.org/release/7d65853b-d547-4885-86a6-51df4005768c/1619682623-250.jpg"
+      },
+      "id": "1619682623"
+    },
+    {
+      "types": [
+        "Medium"
+      ],
+      "front": false,
+      "back": false,
+      "edit": 18556831,
+      "image": "http://coverartarchive.org/release/7d65853b-d547-4885-86a6-51df4005768c/1619682494.jpg",
+      "comment": "",
+      "approved": true,
+      "thumbnails": {
+        "large": "http://coverartarchive.org/release/7d65853b-d547-4885-86a6-51df4005768c/1619682494-500.jpg",
+        "small": "http://coverartarchive.org/release/7d65853b-d547-4885-86a6-51df4005768c/1619682494-250.jpg"
+      },
+      "id": "1619682494"
+    }
+  ],
+  "release": "http://musicbrainz.org/release/7d65853b-d547-4885-86a6-51df4005768c"
+}
